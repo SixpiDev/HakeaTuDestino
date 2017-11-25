@@ -4,6 +4,7 @@
 
 int main()
 {
+
     sf::RenderWindow window(sf::VideoMode(1000, 600), "hibuddyAPP");
 
     sf::Texture tMap;
